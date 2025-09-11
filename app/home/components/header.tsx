@@ -78,7 +78,7 @@
 //       label: "For companies",
 //       onClick: () => scrollToSection("for-companies"),
 //     },
-//      { href: "/blog", label: "Blog" },
+//      { href: "blog.hyvefreelance.com", label: "Blog" },
 //     { href: "/contact", label: "Support" },
 //     // Reverted to Blog
 //     { href: "/about", label: "About" },
@@ -281,7 +281,7 @@ export default function Header() {
       label: "For companies",
       onClick: () => scrollToSection("for-companies"),
     },
-    { href: "/blog", label: "Blog" },
+    { href: "blog.hyvefreelance.com", label: "Blog" },
     { href: "/contact", label: "Support" },
     // Reverted to Blog
     { href: "/about", label: "About" },
