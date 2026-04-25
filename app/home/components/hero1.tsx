@@ -213,11 +213,11 @@
 // //             </div>
 // //           </div>
 
-// //           {/* Escrow Payment Card - Bottom Left */}
+// //           {/* Payment Release Card - Bottom Left */}
 // //           <div className="absolute bottom-28 left-4 sm:bottom-16 sm:left-[17%] w-44 sm:w-70 z-30">
 // //             <Image
-// //               src="/escrow-payment-card.png"
-// //               alt="Escrow Payment - Safe & Secured Protection"
+// //               src="/earnings-card.png"
+// //               alt="Payment Release - Safe and Simple"
 // //               width={224}
 // //               height={60}
 // //               className="w-full h-auto object-contain drop-shadow-xl"
@@ -694,10 +694,10 @@
 // //                     {/* Content */}
 // //                     <div className="max-w-md">
 // //                       <h3 className="text-xl md:text-2xl font-bold text-gray-800 mb-3 md:mb-4">
-// //                         <span className="text-[#F1AB13] mr-2">4.</span>Pay Securely
+// //                         <span className="text-[#F1AB13] mr-2">4.</span>Release Funds
 // //                       </h3>
 // //                       <p className="text-base md:text-lg text-gray-600 leading-relaxed mb-6">
-// //                         Release payments safely through our escrow system. Pay only when you're satisfied with the work.
+// //                         Release payments safely after admin approval. Pay only when the work is complete.
 // //                       </p>
 // //                     </div>
 // //                     {/* Visual */}
@@ -738,10 +738,10 @@
 // //                       {" "}
 // //                       {/* Use ml-auto to push content to the right within its half-width */}
 // //                       <h3 className="text-2xl font-bold text-gray-800 mb-4">
-// //                         <span className="text-[#F1AB13] mr-2">4.</span>Pay Securely
+// //                         <span className="text-[#F1AB13] mr-2">4.</span>Release Funds
 // //                       </h3>
 // //                       <p className="text-lg text-gray-600 leading-relaxed">
-// //                         Release payments safely through our escrow system. Pay only when you're satisfied with the work.
+// //                         Release payments safely after admin approval. Pay only when the work is complete.
 // //                       </p>
 // //                     </div>
 // //                   </div>
@@ -1394,11 +1394,11 @@
 //             </div>
 //           </div>
 
-//           {/* Escrow Payment Card - Bottom Left */}
+//           {/* Payment Release Card - Bottom Left */}
 //           <div className="absolute bottom-0 left-4 sm:bottom-16 sm:left-[17%] w-44 sm:w-70 z-30">
 //             <Image
-//               src="/escrow-payment-card.png"
-//               alt="Escrow Payment - Safe & Secured Protection"
+//               src="/earnings-card.png"
+//               alt="Payment Release - Safe and Simple"
 //               width={224}
 //               height={60}
 //               className="w-full h-auto object-contain drop-shadow-xl"
@@ -1889,10 +1889,10 @@
 //                     {/* Content */}
 //                     <div className="max-w-md">
 //                       <h3 className="text-xl md:text-2xl font-bold text-gray-800 mb-3 md:mb-4">
-//                         <span className="text-[#F1AB13] mr-2">4.</span>Pay Securely
+//                         <span className="text-[#F1AB13] mr-2">4.</span>Release Funds
 //                       </h3>
 //                       <p className="text-base md:text-lg text-gray-600 leading-relaxed mb-6">
-//                         Release payments safely through our escrow system. Pay only when you're satisfied with the work.
+//                         Release payments safely after admin approval. Pay only when the work is complete.
 //                       </p>
 //                     </div>
 //                     {/* Visual */}
@@ -1933,10 +1933,10 @@
 //                       {" "}
 //                       {/* Use ml-auto to push content to the right within its half-width */}
 //                       <h3 className="text-2xl font-bold text-gray-800 mb-4">
-//                         <span className="text-[#F1AB13] mr-2">4.</span>Pay Securely
+//                         <span className="text-[#F1AB13] mr-2">4.</span>Release Funds
 //                       </h3>
 //                       <p className="text-lg text-gray-600 leading-relaxed">
-//                         Release payments safely through our escrow system. Pay only when you're satisfied with the work.
+//                         Release payments safely after admin approval. Pay only when the work is complete.
 //                       </p>
 //                     </div>
 //                   </div>
@@ -2590,11 +2590,11 @@ export default function Home() {
             </div>
           </div>
 
-          {/* Escrow Payment Card - Bottom Left */}
+          {/* Payment Release Card - Bottom Left */}
           <div className="absolute bottom-0 left-4 sm:bottom-16 sm:left-[17%] w-44 sm:w-70 z-30">
             <Image
-              src="/escrow-payment-card.png"
-              alt="Escrow Payment - Safe & Secured Protection"
+              src="/earnings-card.png"
+              alt="Payment Release - Safe and Simple"
               width={224}
               height={60}
               className="w-full h-auto object-contain drop-shadow-xl"
@@ -3158,10 +3158,10 @@ export default function Home() {
                     {/* Content */}
                     <div className="max-w-md">
                       <h3 className="text-xl md:text-2xl font-bold text-gray-800 mb-3 md:mb-4">
-                        <span className="text-[#F1AB13] mr-2">4.</span>Pay Securely
+                        <span className="text-[#F1AB13] mr-2">4.</span>Release Funds
                       </h3>
                       <p className="text-base md:text-lg text-gray-600 leading-relaxed mb-6">
-                        Release payments safely through our escrow system. Pay only when you're satisfied with the work.
+                        Release payments safely after admin approval. Pay only when the work is complete.
                       </p>
                     </div>
                     {/* Visual */}
@@ -3215,10 +3215,10 @@ export default function Home() {
                       {" "}
                       {/* Use ml-auto to push content to the right within its half-width */}
                       <h3 className="text-2xl font-bold text-gray-800 mb-4">
-                        <span className="text-[#F1AB13] mr-2">4.</span>Pay Securely
+                        <span className="text-[#F1AB13] mr-2">4.</span>Release Funds
                       </h3>
                       <p className="text-lg text-gray-600 leading-relaxed">
-                        Release payments safely through our escrow system. Pay only when you're satisfied with the work.
+                        Release payments safely after admin approval. Pay only when the work is complete.
                       </p>
                     </div>
                   </div>

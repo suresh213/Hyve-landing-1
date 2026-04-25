@@ -293,11 +293,11 @@ export default function Home() {
             </div>
           </div>
 
-          {/* Escrow Payment Card - Bottom Left */}
+          {/* Earnings Card - Bottom Left */}
           <div className="float absolute bottom-0 left-4 sm:bottom-16 sm:left-[17%] w-44 sm:w-70 z-30 border-[#F1AB13] ">
             <Image
-              src="/escrow-payment-card.png"
-              alt="Escrow Payment - Safe & Secured Protection"
+              src="/earnings-card.png"
+              alt="Earnings Card - Safe & Simple Payment Release"
               width={224}
               height={60}
               className="w-full h-auto object-contain"
